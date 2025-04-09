@@ -1,0 +1,7 @@
+bin/
+failhook
+failhook-*
+coverage.out
+
+# Claude files
+CLAUDE.md
